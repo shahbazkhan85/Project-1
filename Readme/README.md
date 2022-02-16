@@ -36,7 +36,7 @@ It monitors the log files/locations that you specify and forwards them to Elasti
 It records metrics/statistics data and transports them to the output that you specifics thru Elasticsearch/Logstash.
 
 The configuration details of each machine may be found below.
-_Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables) to add/remove values from the table_.
+
 
 | Name     | Function | IP Address          |Operating System |
 |----------|----------|---------------------|-----------------|
