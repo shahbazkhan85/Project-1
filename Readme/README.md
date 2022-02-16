@@ -40,9 +40,11 @@ _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdow
 
 | Name     | Function | IP Address          |Operating System |
 |----------|----------|---------------------|-----------------|
-| Jump Box | Gateway  | 10.0.0.4(Private IP)|     Linux       |     |          |          | 20.120.40.146(Publi)|                 |                 | ELK-VM   | Server   | 10.1.0.7(Private)   |     Linux       |
-|          |          | 13.67.209.94(Public)|                 |                  |web-VM1   | Server   | 10.0.0.6(Private)   |     Linux       |
-|          |          | 40.117.99.36(Public)|                 |                  |Wdb-VM2   | Server   | 10.0.0.7(Private)   |     Linux       |
+| Jump Box | Gateway  | 10.0.0.4(Private IP)|     Linux       |
+|                     | 20.120.40.146(Publi)|  
+| ELK-VM   | Server   | 10.1.0.7(Private)   |     Linux       |
+                      | 13.67.209.94(Public)|                 |                                                                                                             | |  web-VM1 | Server   | 10.0.0.6(Private)   |     Linux       |
+|          |          | 40.117.99.36(Public)|                 |                                                                                                                | Wdb-VM2  | Server   | 10.0.0.7(Private)   |     Linux       |
 |          |          | 40.117.99.36(Public)|                 |                  
 
 ### Access Policies
