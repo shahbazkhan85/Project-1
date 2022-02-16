@@ -38,9 +38,10 @@ It records metrics/statistics data and transports them to the output that you sp
 The configuration details of each machine may be found below.
 
 
-| Name     | Function | IP Address                               |Operating System |
-|----------|----------|--------------------- ------------------- |-----------------|
-| Jump Box | Gateway  | 10.0.0.4(Private IP) 20.120.40.146(Publi)|     Linux       |
+| Name     | Function | IP Address          |Operating System |
+|----------|----------|---------------------|-----------------|
+| Jump Box | Gateway  | 10.0.0.4(Private IP)| Linux           |
+                      | 20.120.40.146(Publi)|                 |
 | ELK-VM   | server   | 10.1.0.7(Private) 13.67.209.94(Public)   |     Linux       |
 | Web-VM1  | Server   | 10.0.0.6(Private) 40.117.99.36(Public)   |     Linux       |                                                                                          |  Wdb-VM2 | Server   | 10.0.0.7(Private) 40.117.99.36(Public)   |     Linux       |
 
